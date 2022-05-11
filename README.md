@@ -1,7 +1,7 @@
  [![MasterHead](https://miro.medium.com/max/1400/0*6_oOYup83NqVNSuq)](https://rishavchanda.io)
  # Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px"> 
  ## I am Shubham Garje 
- Data Science | Python | MySQL</br></br>
+ Data Science | Python | MySQL | BigData</br></br>
  <h3 align="center">A Passionate Data Scientist from India</h3>
  <img ">
 <img align="right" alt="Coding" src="Happy_Coding.gif?raw=true" width="445px"
