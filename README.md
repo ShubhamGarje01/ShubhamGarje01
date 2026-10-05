@@ -304,12 +304,12 @@ Key principles:
 ```text
 SQL                 ████████████████████
 Snowflake           ████████████████████
-ETL / ELT            ███████████████████
-dbt                 ██████████████████
-Informatica IICS    ██████████████████
-Data Architecture   ████████████████
-Python              ███████████████
-AWS                 ██████████████
+ETL / ELT           ███████████████████
+dbt                 ███████████████
+Informatica IICS    ███████████████████
+Data Architecture   ██████████████
+Python              ████████████
+AWS S3              █████████████
 ```
 
 ---
