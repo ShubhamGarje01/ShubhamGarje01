@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Garje
 
-### Data Engineer | Snowflake | dbt | ETL | SQL | Cloud Data Engineering | IICS-CDI | UNIX Scripting
+### Data Engineer | Snowflake | dbt | ETL | SQL | Cloud Data Engineering | IICS-CDI | UNIX Scripting | Informatica MDM SaaS | Semarchy xDM
 
 I build **scalable data pipelines, modern data platforms, and metadata-driven ETL solutions** using Snowflake, dbt, SQL, Python, and cloud technologies.
 
