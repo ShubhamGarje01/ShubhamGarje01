@@ -16,21 +16,16 @@ I build **scalable data pipelines, modern data platforms, and metadata-driven ET
 - Snowflake
 - SQL — Oracle | SQL Server | PostgreSQL
 - dbt
-- Informatica IICS
-- ETL / ELT
-- SCD Type 1 & Type 2
+- Informatica IICS (ETL / ELT)
+- SCD Type 1 & Type 2 
 - CDC & Metadata-driven pipelines
 - Unix Shell Scripting
-
-**AI & Modern Data**
-- Snowflake Cortex
-- AI Agents
 
 ---
 
 ## 🚀 Featured Projects
 
-### ❄️ Snowflake + dbt Data Engineering Platform
+### 1. Snowflake + dbt Data Engineering Platform
 End-to-end modern data pipeline implementing:
 
 - Bronze → Silver → Gold architecture
@@ -63,14 +58,13 @@ End-to-end modern data pipeline implementing:
 ```text
 SQL                 █████████████████████    (100 %)
 Snowflake           █████████████████████    (100 %)
-ETL / ELT           ██████████████████      (90 %)
-Informatica IICS    ██████████████████      (90 %)
-dbt                 ██████████████          (75 %)
-Data Architecture   ████████████            (70 %)
-AWS S3              █████████               (60 %)
-Python              ██████                  (50 %)
+ETL / ELT           ██████████████████       (90 %)
+Informatica IICS    ██████████████████       (90 %)
+dbt                 ██████████████           (75 %)
+Data Architecture   ████████████             (70 %)
+AWS S3              █████████                (60 %)
+Python              ██████                   (50 %)
 ```
-
 ---
 
 ## 🎯 Career Objective
