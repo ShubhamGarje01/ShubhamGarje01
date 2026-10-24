@@ -38,7 +38,7 @@ End-to-end modern data pipeline implementing:
 - Snowflake Tasks & Streams
 
 **Architecture Focus:**  
-`S3 → Snowflake RAW → dbt Staging → Silver → Gold → BI/AI`
+`S3 → Snowflake RAW → dbt Staging (Bronze) → Silver → Gold → BI/AI`
 
 ---
 
